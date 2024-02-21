@@ -1,2 +1,2 @@
 # Reading List
-Reading List for Building LLMs and its peripherals. 
+Reading list on techniques for building a large language model
